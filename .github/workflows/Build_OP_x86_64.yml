@@ -94,5 +94,5 @@ jobs:
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
-        name: batman
+        name: batman01
         path: openwrt/bin
